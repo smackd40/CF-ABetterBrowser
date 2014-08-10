@@ -1,6 +1,6 @@
-# A Better Browser – CloudFlare App
+# Browser App
 
-Giving CloudFlare site owners a way to promote upgrading their old Internet Explorer browser.
+For a browser.
 
 ### How to add a language
 * Fork this repository
